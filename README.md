@@ -1,6 +1,6 @@
 # pixiv-deleted
 
-
+```javascript
 // ==UserScript==
 // @name Pixiv 已删除或不公开
 // @name:zh-CN Pixiv 已删除或不公开
@@ -18,6 +18,7 @@
 // @license MIT
 // @grant none
 // ==/UserScript==
+
 
 (function() {
     'use strict';
